@@ -1,0 +1,221 @@
+product_id,product_name,category,subcategory,price,cost,stock_quantity
+PRD-10000,AeroBeat Wireless Headphones - Black,Electronics,Audio,-1.00,30.30,20
+PRD-10001,AeroBeat Wireless Headphones - Silver,Electronics,Audio,-2.00,41.12,27
+PRD-10002,AeroBeat Wireless Headphones - Navy,Electronics,Audio,-3.00,53.04,34
+PRD-10003,AeroBeat Wireless Headphones - Sand,Electronics,Audio,-4.00,66.06,41
+PRD-10004,AeroBeat Wireless Headphones - Forest,Electronics,Audio,-5.00,80.18,48
+PRD-10005,AeroBeat Wireless Headphones - Slate,Electronics,Audio,-6.00,95.40,55
+PRD-10006,Nimbus Bluetooth Speaker - Black,Electronics,Audio,N/A,18.30,62
+PRD-10007,Nimbus Bluetooth Speaker - Silver,Electronics,Audio,,25.12,69
+PRD-10008,Nimbus Bluetooth Speaker - Navy,Electronics,Audio,N/A,32.64,76
+PRD-10009,Nimbus Bluetooth Speaker - Sand,Electronics,Audio,,40.86,83
+PRD-10010,Nimbus Bluetooth Speaker - Forest,Electronics,Audio,N/A,49.78,90
+PRD-10011,Nimbus Bluetooth Speaker - Slate,Electronics,Audio,99.00,59.40,-1
+PRD-10012,Harbor Laptop Sleeve - Black,Electronics,Computers,30.67,13.80,-2
+PRD-10013,Harbor Laptop Sleeve - Silver,Electronics,Computers,37.33,17.92,-3
+PRD-10014,Harbor Laptop Sleeve - Navy,Electronics,Computers,44.00,22.44,-4
+PRD-10015,Harbor Laptop Sleeve - Sand,Electronics,Computers,50.67,27.36,-5
+PRD-10016,Harbor Laptop Sleeve - Forest,Miscellaneous,Computers,57.33,32.68,132
+PRD-10017,Harbor Laptop Sleeve - Slate,Unknown,Computers,64.00,38.40,139
+PRD-10018,Lumen USB-C Hub - Black,Miscellaneous,Computers,44.00,19.80,146
+PRD-10019,Lumen USB-C Hub - Silver,Unknown,Computers,53.00,25.44,153
+PRD-10020,Lumen USB-C Hub - Navy,Miscellaneous,Computers,62.00,31.62,160
+PRD-10021,Lumen USB-C Hub - Sand,Unknown,Computers,71.00,38.34,167
+PRD-10022,Lumen USB-C Hub - Forest,Electronics,Computers,80.00,,174
+PRD-10023,Lumen USB-C Hub - Slate,Electronics,Computers,89.00,,181
+PRD-10024,Northline Phone Charger - Black,Electronics,Accessories,19.00,,188
+PRD-10025,Northline Phone Charger - Silver,Electronics,Accessories,23.00,11.04,195
+PRD-10026,Northline Phone Charger - Navy,Electronics,Accessories,27.00,13.77,22
+PRD-10027,Northline Phone Charger - Sand,Electronics,Accessories,31.00,16.74,29
+PRD-10028,Northline Phone Charger - Forest,Electronics,Accessories,35.00,19.95,36
+PRD-10029,Northline Phone Charger - Slate,Electronics,Accessories,39.00,23.40,43
+PRD-10030,Fieldday Smartwatch Band - Black,Electronics,Accessories,15.67,7.05,50
+PRD-10031,Fieldday Smartwatch Band - Silver,Electronics,Accessories,19.33,9.28,57
+PRD-10032,Fieldday Smartwatch Band - Navy,Electronics,Accessories,23.00,11.73,64
+PRD-10033,Fieldday Smartwatch Band - Sand,Electronics,Accessories,26.67,14.40,71
+PRD-10034,Fieldday Smartwatch Band - Forest,Electronics,Accessories,30.33,17.29,78
+PRD-10035,Fieldday Smartwatch Band - Slate,Electronics,Accessories,34.00,20.40,85
+PRD-10036,Copperlane Pour-Over Kettle - Black,Home,Kitchen,35.33,15.90,92
+PRD-10037,Copperlane Pour-Over Kettle - Silver,Home,Kitchen,42.67,20.48,99
+PRD-10038,Copperlane Pour-Over Kettle - Navy,Home,Kitchen,50.00,25.50,106
+PRD-10039,Copperlane Pour-Over Kettle - Sand,Home,Kitchen,57.33,30.96,113
+PRD-10040,Copperlane Pour-Over Kettle - Forest,Home,Kitchen,64.67,36.86,120
+PRD-10041,Copperlane Pour-Over Kettle - Slate,Home,Kitchen,72.00,43.20,127
+PRD-10042,Brightpath Chef Knife - Black,Home,Kitchen,45.00,20.25,134
+PRD-10043,Brightpath Chef Knife - Silver,Home,Kitchen,58.00,27.84,141
+PRD-10044,Brightpath Chef Knife - Navy,Home,Kitchen,71.00,36.21,148
+PRD-10045,Brightpath Chef Knife - Sand,Home,Kitchen,84.00,45.36,155
+PRD-10046,Brightpath Chef Knife - Forest,Home,Kitchen,97.00,55.29,162
+PRD-10047,Brightpath Chef Knife - Slate,Home,Kitchen,110.00,66.00,169
+PRD-10048,Kinfolk Cotton Duvet Cover - Black,Home,Bedding,60.83,27.38,176
+PRD-10049,Kinfolk Cotton Duvet Cover - Silver,Home,Bedding,76.67,36.80,183
+PRD-10050,Kinfolk Cotton Duvet Cover - Navy,Home,Bedding,92.50,47.18,190
+PRD-10051,Kinfolk Cotton Duvet Cover - Sand,Home,Bedding,108.33,58.50,197
+PRD-10052,Kinfolk Cotton Duvet Cover - Forest,Home,Bedding,124.17,70.78,24
+PRD-10053,Kinfolk Cotton Duvet Cover - Slate,Home,Bedding,140.00,84.00,31
+PRD-10054,Summit Linen Pillowcase Set - Black,Home,Bedding,28.00,12.60,38
+PRD-10055,Summit Linen Pillowcase Set - Silver,Home,Bedding,34.00,16.32,45
+PRD-10056,Summit Linen Pillowcase Set - Navy,Home,Bedding,40.00,20.40,52
+PRD-10057,Summit Linen Pillowcase Set - Sand,Home,Bedding,46.00,24.84,59
+PRD-10058,Summit Linen Pillowcase Set - Forest,Home,Bedding,52.00,29.64,66
+PRD-10059,Summit Linen Pillowcase Set - Slate,Home,Bedding,58.00,34.80,73
+PRD-10060,Aero Ceramic Table Lamp - Black,Home,Decor,47.67,21.45,80
+PRD-10061,Aero Ceramic Table Lamp - Silver,Home,Decor,57.33,27.52,87
+PRD-10062,Aero Ceramic Table Lamp - Navy,Home,Decor,67.00,34.17,94
+PRD-10063,Aero Ceramic Table Lamp - Sand,Home,Decor,76.67,41.40,101
+PRD-10064,Aero Ceramic Table Lamp - Forest,Home,Decor,86.33,49.21,108
+PRD-10065,Aero Ceramic Table Lamp - Slate,Home,Decor,96.00,57.60,115
+PRD-10066,Harbor Oak Picture Frame - Black,Home,Decor,22.67,10.20,122
+PRD-10067,Harbor Oak Picture Frame - Silver,Home,Decor,27.33,13.12,129
+PRD-10068,Harbor Oak Picture Frame - Navy,Home,Decor,32.00,16.32,136
+PRD-10069,Harbor Oak Picture Frame - Sand,Home,Decor,36.67,19.80,143
+PRD-10070,Harbor Oak Picture Frame - Forest,Home,Decor,41.33,23.56,150
+PRD-10071,Harbor Oak Picture Frame - Slate,Home,Decor,46.00,27.60,157
+PRD-10072,Northline Oxford Shirt - Black,Apparel,Men,41.33,18.60,164
+PRD-10073,Northline Oxford Shirt - Silver,Apparel,Men,48.67,23.36,171
+PRD-10074,Northline Oxford Shirt - Navy,Apparel,Men,56.00,28.56,178
+PRD-10075,Northline Oxford Shirt - Sand,Apparel,Men,63.33,34.20,185
+PRD-10076,Northline Oxford Shirt - Forest,Apparel,Men,70.67,40.28,192
+PRD-10077,Northline Oxford Shirt - Slate,Apparel,Men,78.00,46.80,199
+PRD-10078,Fieldday Chino Trousers - Black,Apparel,Men,50.33,22.65,26
+PRD-10079,Fieldday Chino Trousers - Silver,Apparel,Men,58.67,28.16,33
+PRD-10080,Fieldday Chino Trousers - Navy,Apparel,Men,67.00,34.17,40
+PRD-10081,Fieldday Chino Trousers - Sand,Apparel,Men,75.33,40.68,47
+PRD-10082,Fieldday Chino Trousers - Forest,Apparel,Men,83.67,47.69,54
+PRD-10083,Fieldday Chino Trousers - Slate,Apparel,Men,92.00,55.20,61
+PRD-10084,Lumen Wrap Dress - Black,Apparel,Women,60.00,27.00,68
+PRD-10085,Lumen Wrap Dress - Silver,Apparel,Women,72.00,34.56,75
+PRD-10086,Lumen Wrap Dress - Navy,Apparel,Women,84.00,42.84,82
+PRD-10087,Lumen Wrap Dress - Sand,Apparel,Women,96.00,51.84,89
+PRD-10088,Lumen Wrap Dress - Forest,Apparel,Women,108.00,61.56,96
+PRD-10089,Lumen Wrap Dress - Slate,Apparel,Women,120.00,72.00,103
+PRD-10090,Kinfolk Merino Sweater - Black,Apparel,Women,66.67,30.00,110
+PRD-10091,Kinfolk Merino Sweater - Silver,Apparel,Women,79.33,38.08,117
+PRD-10092,Kinfolk Merino Sweater - Navy,Apparel,Women,92.00,46.92,124
+PRD-10093,Kinfolk Merino Sweater - Sand,Apparel,Women,104.67,56.52,131
+PRD-10094,Kinfolk Merino Sweater - Forest,Apparel,Women,117.33,66.88,138
+PRD-10095,Kinfolk Merino Sweater - Slate,Apparel,Women,130.00,78.00,145
+PRD-10096,Brightpath Rain Jacket - Black,Apparel,Kids,42.33,19.05,152
+PRD-10097,Brightpath Rain Jacket - Silver,Apparel,Kids,48.67,23.36,159
+PRD-10098,Brightpath Rain Jacket - Navy,Apparel,Kids,55.00,28.05,166
+PRD-10099,Brightpath Rain Jacket - Sand,Apparel,Kids,61.33,33.12,173
+PRD-10100,Brightpath Rain Jacket - Forest,Apparel,Kids,67.67,38.57,180
+PRD-10101,Brightpath Rain Jacket - Slate,Apparel,Kids,74.00,44.40,187
+PRD-10102,Summit Canvas Sneakers - Black,Apparel,Kids,47.50,21.38,194
+PRD-10103,Summit Canvas Sneakers - Silver,Apparel,Kids,55.00,26.40,21
+PRD-10104,Summit Canvas Sneakers - Navy,Apparel,Kids,62.50,31.88,28
+PRD-10105,Summit Canvas Sneakers - Sand,Apparel,Kids,70.00,37.80,35
+PRD-10106,Summit Canvas Sneakers - Forest,Apparel,Kids,77.50,44.18,42
+PRD-10107,Summit Canvas Sneakers - Slate,Apparel,Kids,85.00,51.00,49
+PRD-10108,Aero Daily Moisturizer - Black,Beauty,Skincare,19.67,8.85,56
+PRD-10109,Aero Daily Moisturizer - Silver,Beauty,Skincare,23.33,11.20,63
+PRD-10110,Aero Daily Moisturizer - Navy,Beauty,Skincare,27.00,13.77,70
+PRD-10111,Aero Daily Moisturizer - Sand,Beauty,Skincare,30.67,16.56,77
+PRD-10112,Aero Daily Moisturizer - Forest,Beauty,Skincare,34.33,19.57,84
+PRD-10113,Aero Daily Moisturizer - Slate,Beauty,Skincare,38.00,22.80,91
+PRD-10114,Nimbus Mineral Sunscreen - Black,Beauty,Skincare,17.00,7.65,98
+PRD-10115,Nimbus Mineral Sunscreen - Silver,Beauty,Skincare,20.00,9.60,105
+PRD-10116,Nimbus Mineral Sunscreen - Navy,Beauty,Skincare,23.00,11.73,112
+PRD-10117,Nimbus Mineral Sunscreen - Sand,Beauty,Skincare,26.00,14.04,119
+PRD-10118,Nimbus Mineral Sunscreen - Forest,Beauty,Skincare,29.00,16.53,126
+PRD-10119,Nimbus Mineral Sunscreen - Slate,Beauty,Skincare,32.00,19.20,133
+PRD-10120,Harbor Repair Shampoo - Black,Beauty,Hair,14.33,6.45,140
+PRD-10121,Harbor Repair Shampoo - Silver,Beauty,Hair,16.67,8.00,147
+PRD-10122,Harbor Repair Shampoo - Navy,Beauty,Hair,19.00,9.69,154
+PRD-10123,Harbor Repair Shampoo - Sand,Beauty,Hair,21.33,11.52,161
+PRD-10124,Harbor Repair Shampoo - Forest,Beauty,Hair,23.67,13.49,168
+PRD-10125,Harbor Repair Shampoo - Slate,Beauty,Hair,26.00,15.60,175
+PRD-10126,Copperlane Leave-In Conditioner - Black,Beauty,Hair,15.50,6.98,182
+PRD-10127,Copperlane Leave-In Conditioner - Silver,Beauty,Hair,18.00,8.64,189
+PRD-10128,Copperlane Leave-In Conditioner - Navy,Beauty,Hair,20.50,10.46,196
+PRD-10129,Copperlane Leave-In Conditioner - Sand,Beauty,Hair,23.00,12.42,23
+PRD-10130,Copperlane Leave-In Conditioner - Forest,Beauty,Hair,25.50,14.54,30
+PRD-10131,Copperlane Leave-In Conditioner - Slate,Beauty,Hair,28.00,16.80,37
+PRD-10132,Fieldday Yoga Mat - Black,Sports,Fitness,30.83,13.88,44
+PRD-10133,Fieldday Yoga Mat - Silver,Sports,Fitness,36.67,17.60,51
+PRD-10134,Fieldday Yoga Mat - Navy,Sports,Fitness,42.50,21.68,58
+PRD-10135,Fieldday Yoga Mat - Sand,Sports,Fitness,48.33,26.10,65
+PRD-10136,Fieldday Yoga Mat - Forest,Sports,Fitness,54.17,30.88,72
+PRD-10137,Fieldday Yoga Mat - Slate,Sports,Fitness,60.00,36.00,79
+PRD-10138,Summit Adjustable Dumbbell - Black,Sports,Fitness,62.50,28.12,86
+PRD-10139,Summit Adjustable Dumbbell - Silver,Sports,Fitness,80.00,38.40,93
+PRD-10140,Summit Adjustable Dumbbell - Navy,Sports,Fitness,97.50,49.73,100
+PRD-10141,Summit Adjustable Dumbbell - Sand,Sports,Fitness,115.00,62.10,107
+PRD-10142,Summit Adjustable Dumbbell - Forest,Sports,Fitness,132.50,75.53,114
+PRD-10143,Summit Adjustable Dumbbell - Slate,Sports,Fitness,150.00,90.00,121
+PRD-10144,Northline Hiking Bottle - Black,Sports,Outdoor,21.00,9.45,128
+PRD-10145,Northline Hiking Bottle - Silver,Sports,Outdoor,24.00,11.52,135
+PRD-10146,Northline Hiking Bottle - Navy,Sports,Outdoor,27.00,13.77,142
+PRD-10147,Northline Hiking Bottle - Sand,Sports,Outdoor,30.00,16.20,149
+PRD-10148,Northline Hiking Bottle - Forest,Sports,Outdoor,33.00,18.81,156
+PRD-10149,Northline Hiking Bottle - Slate,Sports,Outdoor,36.00,21.60,163
+PRD-10150,Lumen Daypack - Black,Sports,Outdoor,53.33,24.00,170
+PRD-10151,Lumen Daypack - Silver,Sports,Outdoor,64.67,31.04,177
+PRD-10152,Lumen Daypack - Navy,Sports,Outdoor,76.00,38.76,184
+PRD-10153,Lumen Daypack - Sand,Sports,Outdoor,87.33,47.16,191
+PRD-10154,Lumen Daypack - Forest,Sports,Outdoor,98.67,56.24,198
+PRD-10155,Lumen Daypack - Slate,Sports,Outdoor,110.00,66.00,25
+PRD-10156,Kinfolk Press River Town - Black,Books,Fiction,15.67,7.05,32
+PRD-10157,Kinfolk Press River Town - Silver,Books,Fiction,17.33,8.32,39
+PRD-10158,Kinfolk Press River Town - Navy,Books,Fiction,19.00,9.69,46
+PRD-10159,Kinfolk Press River Town - Sand,Books,Fiction,20.67,11.16,53
+PRD-10160,Kinfolk Press River Town - Forest,Books,Fiction,22.33,12.73,60
+PRD-10161,Kinfolk Press River Town - Slate,Books,Fiction,24.00,14.40,67
+PRD-10162,Brightpath The Glass Orchard - Black,Books,Fiction,16.83,7.57,74
+PRD-10163,Brightpath The Glass Orchard - Silver,Books,Fiction,18.67,8.96,81
+PRD-10164,Brightpath The Glass Orchard - Navy,Books,Fiction,20.50,10.46,88
+PRD-10165,Brightpath The Glass Orchard - Sand,Books,Fiction,22.33,12.06,95
+PRD-10166,Brightpath The Glass Orchard - Forest,Books,Fiction,24.17,13.78,102
+PRD-10167,Brightpath The Glass Orchard - Slate,Books,Fiction,26.00,15.60,109
+PRD-10168,Harbor Notes on Operations - Black,Books,Business,24.33,10.95,116
+PRD-10169,Harbor Notes on Operations - Silver,Books,Business,26.67,12.80,123
+PRD-10170,Harbor Notes on Operations - Navy,Books,Business,29.00,14.79,130
+PRD-10171,Harbor Notes on Operations - Sand,Books,Business,31.33,16.92,137
+PRD-10172,Harbor Notes on Operations - Forest,Books,Business,33.67,19.19,144
+PRD-10173,Harbor Notes on Operations - Slate,Books,Business,36.00,21.60,151
+PRD-10174,Aero Practical Analytics - Black,Books,Business,30.33,13.65,158
+PRD-10175,Aero Practical Analytics - Silver,Books,Business,32.67,15.68,165
+PRD-10176,Aero Practical Analytics - Navy,Books,Business,35.00,17.85,172
+PRD-10177,Aero Practical Analytics - Sand,Books,Business,37.33,20.16,179
+PRD-10178,Aero Practical Analytics - Forest,Books,Business,39.67,22.61,186
+PRD-10179,Aero Practical Analytics - Slate,Books,Business,42.00,25.20,193
+PRD-10180,Copperlane Olive Oil - Black,Grocery,Pantry,12.83,5.78,20
+PRD-10181,Copperlane Olive Oil - Silver,Grocery,Pantry,14.67,7.04,27
+PRD-10182,Copperlane Olive Oil - Navy,Grocery,Pantry,16.50,8.42,34
+PRD-10183,Copperlane Olive Oil - Sand,Grocery,Pantry,18.33,9.90,41
+PRD-10184,Copperlane Olive Oil - Forest,Grocery,Pantry,20.17,11.50,48
+PRD-10185,Copperlane Olive Oil - Slate,Grocery,Pantry,22.00,13.20,55
+PRD-10186,Nimbus Rolled Oats - Black,Grocery,Pantry,7.00,3.15,62
+PRD-10187,Nimbus Rolled Oats - Silver,Grocery,Pantry,8.00,3.84,69
+PRD-10188,Nimbus Rolled Oats - Navy,Grocery,Pantry,9.00,4.59,76
+PRD-10189,Nimbus Rolled Oats - Sand,Grocery,Pantry,10.00,5.40,83
+PRD-10190,Nimbus Rolled Oats - Forest,Grocery,Pantry,11.00,6.27,90
+PRD-10191,Nimbus Rolled Oats - Slate,Grocery,Pantry,12.00,7.20,97
+PRD-10192,Summit Single-Origin Coffee - Black,Grocery,Beverages,14.83,6.68,104
+PRD-10193,Summit Single-Origin Coffee - Silver,Grocery,Beverages,16.67,8.00,111
+PRD-10194,Summit Single-Origin Coffee - Navy,Grocery,Beverages,18.50,9.44,118
+PRD-10195,Summit Single-Origin Coffee - Sand,Grocery,Beverages,20.33,10.98,125
+PRD-10196,Summit Single-Origin Coffee - Forest,Grocery,Beverages,22.17,12.64,132
+PRD-10197,Summit Single-Origin Coffee - Slate,Grocery,Beverages,24.00,14.40,139
+PRD-10198,Fieldday Green Tea - Black,Grocery,Beverages,9.33,4.20,146
+PRD-10199,Fieldday Green Tea - Silver,Grocery,Beverages,10.67,5.12,153
+PRD-10200,Fieldday Green Tea - Navy,Grocery,Beverages,12.00,6.12,160
+PRD-10201,Fieldday Green Tea - Sand,Grocery,Beverages,13.33,7.20,167
+PRD-10202,Fieldday Green Tea - Forest,Grocery,Beverages,14.67,8.36,174
+PRD-10203,Fieldday Green Tea - Slate,Grocery,Beverages,16.00,9.60,181
+PRD-10204,Kinfolk Studio Microphone - Black,Electronics,Audio,88.33,39.75,188
+PRD-10205,Kinfolk Studio Microphone - Silver,Electronics,Audio,106.67,51.20,195
+PRD-10206,Kinfolk Studio Microphone - Navy,Electronics,Audio,125.00,63.75,22
+PRD-10207,Kinfolk Studio Microphone - Sand,Electronics,Audio,143.33,77.40,29
+PRD-10208,Kinfolk Studio Microphone - Forest,Electronics,Audio,161.67,92.15,36
+PRD-10209,Kinfolk Studio Microphone - Slate,Electronics,Audio,180.00,108.00,43
+PRD-10040,Copperlane Pour-Over Kettle - Forest,Home,,64.67,36.86,120
+PRD-10041,Copperlane Pour-Over Kettle - Slate,Home,,72.00,43.20,127
+PRD-10042,Brightpath Chef Knife - Black,Home,,45.00,20.25,134
+PRD-10043,Brightpath Chef Knife - Silver,Home,,58.00,27.84,141
+PRD-10044,Brightpath Chef Knife - Navy,Home,,71.00,36.21,148
+PRD-10045,Brightpath Chef Knife - Sand,Home,,84.00,45.36,155
+,Kinfolk Cotton Duvet Cover - Navy,Home,Bedding,92.50,47.18,190
+,Kinfolk Cotton Duvet Cover - Navy,Home,Bedding,92.50,47.18,190
+,Kinfolk Cotton Duvet Cover - Navy,Home,Bedding,92.50,47.18,190
+,Kinfolk Cotton Duvet Cover - Navy,Home,Bedding,92.50,47.18,190

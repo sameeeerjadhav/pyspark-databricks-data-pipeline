@@ -1,0 +1,519 @@
+customer_id,first_name,last_name,email,phone,city,state,country,signup_date
+CUST-100000,  Ava  ,Sharma,,(200) 555-0000,Austin,Texas,United States,2021-03-01
+CUST-100001,Noah,Williams,,(201) 555-0001,Seattle,wa,United States,2021-03-04
+CUST-100002,Mia,Martinez,,(202) 555-0002,Denver,CO,United States,2021-03-07
+CUST-100003,Liam,Wilson,,(203) 555-0003,Chicago,IL,United States,2021-03-10
+CUST-100004,Sophia,Moore,,(204) 555-0004,Boston,Massachusetts,United States,2021-03-13
+CUST-100005,Ethan,Lee,,(205) 555-0005,Miami,fl,United States,2021-03-16
+CUST-100006,Isla,White,,(206) 555-0006,Phoenix,AZ,United States,2021-03-19
+CUST-100007,Mason,Lewis,,(207) 555-0007,Portland,OR,United States,2021-03-22
+CUST-100008,Amelia,Young,,(208) 555-0008,Atlanta,Georgia,United States,2021-03-25
+CUST-100009,Lucas,Wright,,(209) 555-0009,Dallas,tx,United States,2021-03-28
+CUST-100010,Charlotte,Baker,,(210) 555-0010,San Diego,CA,United States,2021-03-31
+CUST-100011,James,Hill,,(211) 555-0011,Minneapolis,MN,United States,2021-04-03
+CUST-100012,Harper,Roberts,not-an-email,(212) 555-0012,Nashville,Tennessee,United States,2021-04-06
+CUST-100013,Benjamin,Evans,emma.shop,(213) 555-0013,Charlotte,nc,United States,2021-04-09
+CUST-100014,Evelyn,Parker,jane@,(214) 555-0014,Columbus,OH,United States,2021-04-12
+CUST-100015,Henry,Stewart,noah@@example.com,(215) 555-0015,Toronto,ON,Canada,2021-04-15
+CUST-100016,Abigail,Cook,liam example.com,(216) 555-0016,Vancouver,British Columbia,Canada,2021-04-18
+CUST-100017,  Alexander  ,Peterson,mia@.com,(217) 555-0017,London,eng,United Kingdom,2021-04-21
+CUST-100018,Emily,Bailey,not-an-email,(218) 555-0018,Manchester,ENG,United Kingdom,2021-04-24
+CUST-100019,Daniel,Kelly,emma.shop,(219) 555-0019,Mumbai,MH,India,2021-04-27
+CUST-100020,Elizabeth,Nair,elizabeth.nair.20@example.com,(220) 555-0020,,Maharashtra,IN,2021-04-30
+CUST-100021,Michael,Johnson,michael.johnson.21@example.com,(221) 555-0021,,ka,India,2021-05-03
+CUST-100022,Sofia,Garcia,sofia.garcia.22@example.com,(222) 555-0022,,TX,United States,2021-05-06
+CUST-100023,William,Rodriguez,william.rodriguez.23@example.com,(223) 555-0023,,WA,United States,2021-05-09
+CUST-100024,Avery,Thomas,avery.thomas.24@example.com,(224) 555-0024,,Colorado,United States,2021-05-12
+CUST-100025,Oliver,Martin,oliver.martin.25@example.com,(225) 555-0025,,il,United States,2021-05-15
+CUST-100026,Ella,Thompson,ella.thompson.26@example.com,(226) 555-0026,,MA,United States,2021-05-18
+CUST-100027,Jack,Clark,jack.clark.27@example.com,(227) 555-0027,,FL,United States,2021-05-21
+CUST-100028,Scarlett,Walker,scarlett.walker.28@example.com,(228) 555-0028,,Arizona,United States,2021-05-24
+CUST-100029,Leo,King,leo.king.29@example.com,(229) 555-0029,,or,United States,2021-05-27
+CUST-100030,Grace,Green,grace.green.30@example.com,(230) 555-0030,,GA,United States,2021-05-30
+CUST-100031,Samuel,Nelson,samuel.nelson.31@example.com,(231) 555-0031,,TX,United States,2021-06-02
+CUST-100032,Chloe,Mitchell,chloe.mitchell.32@example.com,(232) 555-0032,,California,United States,2021-06-05
+CUST-100033,David,Phillips,david.phillips.33@example.com,(233) 555-0033,,mn,United States,2021-06-08
+CUST-100034,  Victoria  ,Torres,victoria.torres.34@example.com,(234) 555-0034,,TN,United States,2021-06-11
+CUST-100035,Joseph,Edwards,joseph.edwards.35@example.com,(235) 555-0035,Charlotte,NC,United States,2024-13-40
+CUST-100036,Hannah,Murphy,hannah.murphy.36@example.com,(236) 555-0036,Columbus,Ohio,United States,15/01/2024
+CUST-100037,Owen,Morgan,owen.morgan.37@example.com,(237) 555-0037,Toronto,on,Canada,yesterday
+CUST-100038,Lily,Reed,lily.reed.38@example.com,(238) 555-0038,Vancouver,BC,Canada,2024-02-31
+CUST-100039,Gabriel,Gomez,gabriel.gomez.39@example.com,(239) 555-0039,London,ENG,United Kingdom,00-00-0000
+CUST-100040,Zoe,Iyer,zoe.iyer.40@example.com,(240) 555-0040,Manchester,England,UK,2026/09/01
+CUST-100041,Carter,Patel,carter.patel.41@example.com,(241) 555-0041,Mumbai,mh,India,2021-07-02
+CUST-100042,Nora,Brown,nora.brown.42@example.com,(242) 555-0042,Pune,MH,India,2021-07-05
+CUST-100043,Wyatt,Davis,wyatt.davis.43@example.com,(243) 555-0043,Bengaluru,KA,India,2021-07-08
+CUST-100044,Riley,Anderson,riley.anderson.44@example.com,(244) 555-0044,Austin,Texas,United States,2021-07-11
+CUST-100045,John,Jackson,john.jackson.45@example.com,(245) 555-0045,Seattle,wa,United States,2021-07-14
+CUST-100046,Aria,Perez,aria.perez.46@example.com,(246) 555-0046,Denver,CO,United States,2021-07-17
+CUST-100047,Luke,Harris,luke.harris.47@example.com,(247) 555-0047,Chicago,IL,United States,2021-07-20
+CUST-100048,Layla,Robinson,layla.robinson.48@example.com,(248) 555-0048,Boston,Massachusetts,United States,2021-07-23
+CUST-100049,Nathan,Allen,nathan.allen.49@example.com,(249) 555-0049,Miami,fl,United States,2021-07-26
+CUST-100050,Penelope,Scott,penelope.scott.50@example.com,(250) 555-0050,Phoenix,AZ,United States,2021-07-29
+CUST-100051,  Caleb  ,Adams,caleb.adams.51@example.com,(251) 555-0051,Portland,OR,United States,2021-08-01
+CUST-100052,Aurora,Campbell,aurora.campbell.52@example.com,(252) 555-0052,Atlanta,Georgia,United States,2021-08-04
+CUST-100053,Isaac,Carter,isaac.carter.53@example.com,(253) 555-0053,Dallas,tx,United States,2021-08-07
+CUST-100054,Savannah,Turner,savannah.turner.54@example.com,(254) 555-0054,San Diego,CA,United States,2021-08-10
+CUST-100055,Adrian,Collins,adrian.collins.55@example.com,(255) 555-0055,Minneapolis,MN,United States,2021-08-13
+CUST-100056,Brooklyn,Morris,brooklyn.morris.56@example.com,(256) 555-0056,Nashville,Tennessee,United States,2021-08-16
+CUST-100057,Jonathan,Rogers,jonathan.rogers.57@example.com,(257) 555-0057,Charlotte,nc,United States,2021-08-19
+CUST-100058,Claire,Cooper,claire.cooper.58@example.com,(258) 555-0058,Columbus,OH,United States,2021-08-22
+CUST-100059,Thomas,Bell,thomas.bell.59@example.com,(259) 555-0059,Toronto,ON,Canada,2021-08-25
+CUST-100060,Paisley,Howard,paisley.howard.60@example.com,(260) 555-0060,Vancouver,British Columbia,Canada,2021-08-28
+CUST-100061,Ava,Sharma,ava.sharma.61@example.com,(261) 555-0061,London,eng,United Kingdom,2021-08-31
+CUST-100062,Noah,Williams,noah.williams.62@example.com,(262) 555-0062,Manchester,ENG,United Kingdom,2021-09-03
+CUST-100063,Mia,Martinez,mia.martinez.63@example.com,(263) 555-0063,Mumbai,MH,India,2021-09-06
+CUST-100064,Liam,Wilson,liam.wilson.64@example.com,(264) 555-0064,Pune,Maharashtra,India,2021-09-09
+CUST-100065,Sophia,Moore,sophia.moore.65@example.com,(265) 555-0065,Bengaluru,ka,IN,2021-09-12
+CUST-100066,Ethan,Lee,ethan.lee.66@example.com,(266) 555-0066,Austin,TX,United States,2021-09-15
+CUST-100067,Isla,White,isla.white.67@example.com,(267) 555-0067,Seattle,WA,United States,2021-09-18
+CUST-100068,  Mason  ,Lewis,mason.lewis.68@example.com,(268) 555-0068,Denver,Colorado,United States,2021-09-21
+CUST-100069,Amelia,Young,amelia.young.69@example.com,(269) 555-0069,Chicago,il,United States,2021-09-24
+CUST-100070,Lucas,Wright,lucas.wright.70@example.com,(270) 555-0070,Boston,MA,United States,2021-09-27
+CUST-100071,Charlotte,Baker,charlotte.baker.71@example.com,(271) 555-0071,Miami,FL,United States,2021-09-30
+CUST-100072,James,Hill,james.hill.72@example.com,(272) 555-0072,Phoenix,Arizona,United States,2021-10-03
+CUST-100073,Harper,Roberts,harper.roberts.73@example.com,(273) 555-0073,Portland,or,United States,2021-10-06
+CUST-100074,Benjamin,Evans,benjamin.evans.74@example.com,(274) 555-0074,Atlanta,GA,United States,2021-10-09
+CUST-100075,Evelyn,Parker,evelyn.parker.75@example.com,(275) 555-0075,Dallas,TX,United States,2021-10-12
+CUST-100076,Henry,Stewart,henry.stewart.76@example.com,(276) 555-0076,San Diego,California,United States,2021-10-15
+CUST-100077,Abigail,Cook,abigail.cook.77@example.com,(277) 555-0077,Minneapolis,mn,United States,2021-10-18
+CUST-100078,Alexander,Peterson,alexander.peterson.78@example.com,(278) 555-0078,Nashville,TN,United States,2021-10-21
+CUST-100079,Emily,Bailey,emily.bailey.79@example.com,(279) 555-0079,Charlotte,NC,United States,2021-10-24
+CUST-100080,Daniel,Kelly,daniel.kelly.80@example.com,(280) 555-0080,Columbus,Ohio,United States,2021-10-27
+CUST-100081,Elizabeth,Nair,elizabeth.nair.81@example.com,(281) 555-0081,Toronto,on,Canada,2021-10-30
+CUST-100082,Michael,Johnson,michael.johnson.82@example.com,(282) 555-0082,Vancouver,BC,Canada,2021-11-02
+CUST-100083,Sofia,Garcia,sofia.garcia.83@example.com,(283) 555-0083,London,ENG,United Kingdom,2021-11-05
+CUST-100084,William,Rodriguez,william.rodriguez.84@example.com,(284) 555-0084,Manchester,England,United Kingdom,2021-11-08
+CUST-100085,  Avery  ,Thomas,avery.thomas.85@example.com,(285) 555-0085,Mumbai,mh,india,2021-11-11
+CUST-100086,Oliver,Martin,oliver.martin.86@example.com,(286) 555-0086,Pune,MH,India,2021-11-14
+CUST-100087,Ella,Thompson,ella.thompson.87@example.com,(287) 555-0087,Bengaluru,KA,India,2021-11-17
+CUST-100088,Jack,Clark,jack.clark.88@example.com,(288) 555-0088,Austin,Texas,United States,2021-11-20
+CUST-100089,Scarlett,Walker,scarlett.walker.89@example.com,(289) 555-0089,Seattle,wa,United States,2021-11-23
+CUST-100090,Leo,King,leo.king.90@example.com,(290) 555-0090,Denver,CO,United States,2021-11-26
+CUST-100091,Grace,Green,grace.green.91@example.com,(291) 555-0091,Chicago,IL,United States,2021-11-29
+CUST-100092,Samuel,Nelson,samuel.nelson.92@example.com,(292) 555-0092,Boston,Massachusetts,United States,2021-12-02
+CUST-100093,Chloe,Mitchell,chloe.mitchell.93@example.com,(293) 555-0093,Miami,fl,United States,2021-12-05
+CUST-100094,David,Phillips,david.phillips.94@example.com,(294) 555-0094,Phoenix,AZ,United States,2021-12-08
+CUST-100095,Victoria,Torres,victoria.torres.95@example.com,(295) 555-0095,Portland,OR,United States,2021-12-11
+CUST-100096,Joseph,Edwards,joseph.edwards.96@example.com,(296) 555-0096,Atlanta,Georgia,United States,2021-12-14
+CUST-100097,Hannah,Murphy,hannah.murphy.97@example.com,(297) 555-0097,Dallas,tx,United States,2021-12-17
+CUST-100098,Owen,Morgan,owen.morgan.98@example.com,(298) 555-0098,San Diego,CA,United States,2021-12-20
+CUST-100099,Lily,Reed,lily.reed.99@example.com,(299) 555-0099,Minneapolis,MN,United States,2021-12-23
+CUST-100100,Gabriel,Gomez,gabriel.gomez.100@example.com,(300) 555-0100,Nashville,Tennessee,United States,2021-12-26
+CUST-100101,Zoe,Iyer,zoe.iyer.101@example.com,(301) 555-0101,Charlotte,nc,United States,2021-12-29
+CUST-100102,  Carter  ,Patel,carter.patel.102@example.com,(302) 555-0102,Columbus,OH,United States,2022-01-01
+CUST-100103,Nora,Brown,nora.brown.103@example.com,(303) 555-0103,Toronto,ON,Canada,2022-01-04
+CUST-100104,Wyatt,Davis,wyatt.davis.104@example.com,(304) 555-0104,Vancouver,British Columbia,Canada,2022-01-07
+CUST-100105,Riley,Anderson,riley.anderson.105@example.com,(305) 555-0105,London,eng,United Kingdom,2022-01-10
+CUST-100106,John,Jackson,john.jackson.106@example.com,(306) 555-0106,Manchester,ENG,United Kingdom,2022-01-13
+CUST-100107,Aria,Perez,aria.perez.107@example.com,(307) 555-0107,Mumbai,MH,India,2022-01-16
+CUST-100108,Luke,Harris,luke.harris.108@example.com,(308) 555-0108,Pune,Maharashtra,India,2022-01-19
+CUST-100109,Layla,Robinson,layla.robinson.109@example.com,(309) 555-0109,Bengaluru,ka,India,2022-01-22
+CUST-100110,Nathan,Allen,nathan.allen.110@example.com,(310) 555-0110,Austin,TX,United States,2022-01-25
+CUST-100111,Penelope,Scott,penelope.scott.111@example.com,(311) 555-0111,Seattle,WA,United States,2022-01-28
+CUST-100112,Caleb,Adams,caleb.adams.112@example.com,(312) 555-0112,Denver,Colorado,United States,2022-01-31
+CUST-100113,Aurora,Campbell,aurora.campbell.113@example.com,(313) 555-0113,Chicago,il,United States,2022-02-03
+CUST-100114,Isaac,Carter,isaac.carter.114@example.com,(314) 555-0114,Boston,MA,United States,2022-02-06
+CUST-100115,Savannah,Turner,savannah.turner.115@example.com,(315) 555-0115,Miami,FL,United States,2022-02-09
+CUST-100116,Adrian,Collins,adrian.collins.116@example.com,(316) 555-0116,Phoenix,Arizona,United States,2022-02-12
+CUST-100117,Brooklyn,Morris,brooklyn.morris.117@example.com,(317) 555-0117,Portland,or,United States,2022-02-15
+CUST-100118,Jonathan,Rogers,jonathan.rogers.118@example.com,(318) 555-0118,Atlanta,GA,United States,2022-02-18
+CUST-100119,  Claire  ,Cooper,claire.cooper.119@example.com,(319) 555-0119,Dallas,TX,United States,2022-02-21
+CUST-100120,Thomas,Bell,thomas.bell.120@example.com,(320) 555-0120,San Diego,California,United States,2022-02-24
+CUST-100121,Paisley,Howard,paisley.howard.121@example.com,(321) 555-0121,Minneapolis,mn,United States,2022-02-27
+CUST-100122,Ava,Sharma,ava.sharma.122@example.com,(322) 555-0122,Nashville,TN,United States,2022-03-02
+CUST-100123,Noah,Williams,noah.williams.123@example.com,(323) 555-0123,Charlotte,NC,United States,2022-03-05
+CUST-100124,Mia,Martinez,mia.martinez.124@example.com,(324) 555-0124,Columbus,Ohio,United States,2022-03-08
+CUST-100125,Liam,Wilson,liam.wilson.125@example.com,(325) 555-0125,Toronto,on,CA,2022-03-11
+CUST-100126,Sophia,Moore,sophia.moore.126@example.com,(326) 555-0126,Vancouver,BC,Canada,2022-03-14
+CUST-100127,Ethan,Lee,ethan.lee.127@example.com,(327) 555-0127,London,ENG,United Kingdom,2022-03-17
+CUST-100128,Isla,White,isla.white.128@example.com,(328) 555-0128,Manchester,England,United Kingdom,2022-03-20
+CUST-100129,Mason,Lewis,mason.lewis.129@example.com,(329) 555-0129,Mumbai,mh,India,2022-03-23
+CUST-100130,Amelia,Young,amelia.young.130@example.com,(330) 555-0130,Pune,MH,india,2022-03-26
+CUST-100131,Lucas,Wright,lucas.wright.131@example.com,(331) 555-0131,Bengaluru,KA,India,2022-03-29
+CUST-100132,Charlotte,Baker,charlotte.baker.132@example.com,(332) 555-0132,Austin,Texas,United States,2022-04-01
+CUST-100133,James,Hill,james.hill.133@example.com,(333) 555-0133,Seattle,wa,United States,2022-04-04
+CUST-100134,Harper,Roberts,harper.roberts.134@example.com,(334) 555-0134,Denver,CO,United States,2022-04-07
+CUST-100135,Benjamin,Evans,benjamin.evans.135@example.com,(335) 555-0135,Chicago,IL,United States,2022-04-10
+CUST-100136,  Evelyn  ,Parker,evelyn.parker.136@example.com,(336) 555-0136,Boston,Massachusetts,United States,2022-04-13
+CUST-100137,Henry,Stewart,henry.stewart.137@example.com,(337) 555-0137,Miami,fl,United States,2022-04-16
+CUST-100138,Abigail,Cook,abigail.cook.138@example.com,(338) 555-0138,Phoenix,AZ,United States,2022-04-19
+CUST-100139,Alexander,Peterson,alexander.peterson.139@example.com,(339) 555-0139,Portland,OR,United States,2022-04-22
+CUST-100140,Emily,Bailey,emily.bailey.140@example.com,(340) 555-0140,Atlanta,Georgia,United States,2022-04-25
+CUST-100141,Daniel,Kelly,daniel.kelly.141@example.com,(341) 555-0141,Dallas,tx,United States,2022-04-28
+CUST-100142,Elizabeth,Nair,elizabeth.nair.142@example.com,(342) 555-0142,San Diego,CA,United States,2022-05-01
+CUST-100143,Michael,Johnson,michael.johnson.143@example.com,(343) 555-0143,Minneapolis,MN,United States,2022-05-04
+CUST-100144,Sofia,Garcia,sofia.garcia.144@example.com,(344) 555-0144,Nashville,Tennessee,United States,2022-05-07
+CUST-100145,William,Rodriguez,william.rodriguez.145@example.com,(345) 555-0145,Charlotte,nc,United States,2022-05-10
+CUST-100146,Avery,Thomas,avery.thomas.146@example.com,(346) 555-0146,Columbus,OH,United States,2022-05-13
+CUST-100147,Oliver,Martin,oliver.martin.147@example.com,(347) 555-0147,Toronto,ON,Canada,2022-05-16
+CUST-100148,Ella,Thompson,ella.thompson.148@example.com,(348) 555-0148,Vancouver,British Columbia,Canada,2022-05-19
+CUST-100149,Jack,Clark,jack.clark.149@example.com,(349) 555-0149,London,eng,United Kingdom,2022-05-22
+CUST-100150,Scarlett,Walker,scarlett.walker.150@example.com,(350) 555-0150,Manchester,ENG,United Kingdom,2022-05-25
+CUST-100151,Leo,King,leo.king.151@example.com,(351) 555-0151,Mumbai,MH,India,2022-05-28
+CUST-100152,Grace,Green,grace.green.152@example.com,(352) 555-0152,Pune,Maharashtra,India,2022-05-31
+CUST-100153,  Samuel  ,Nelson,samuel.nelson.153@example.com,(353) 555-0153,Bengaluru,ka,India,2022-06-03
+CUST-100154,Chloe,Mitchell,chloe.mitchell.154@example.com,(354) 555-0154,Austin,TX,United States,2022-06-06
+CUST-100155,David,Phillips,david.phillips.155@example.com,(355) 555-0155,Seattle,WA,United States,2022-06-09
+CUST-100156,Victoria,Torres,victoria.torres.156@example.com,(356) 555-0156,Denver,Colorado,United States,2022-06-12
+CUST-100157,Joseph,Edwards,joseph.edwards.157@example.com,(357) 555-0157,Chicago,il,United States,2022-06-15
+CUST-100158,Hannah,Murphy,hannah.murphy.158@example.com,(358) 555-0158,Boston,MA,United States,2022-06-18
+CUST-100159,Owen,Morgan,owen.morgan.159@example.com,(359) 555-0159,Miami,FL,United States,2022-06-21
+CUST-100160,Lily,Reed,lily.reed.160@example.com,(360) 555-0160,Phoenix,Arizona,United States,2022-06-24
+CUST-100161,Gabriel,Gomez,gabriel.gomez.161@example.com,(361) 555-0161,Portland,or,United States,2022-06-27
+CUST-100162,Zoe,Iyer,zoe.iyer.162@example.com,(362) 555-0162,Atlanta,GA,United States,2022-06-30
+CUST-100163,Carter,Patel,carter.patel.163@example.com,(363) 555-0163,Dallas,TX,United States,2022-07-03
+CUST-100164,Nora,Brown,nora.brown.164@example.com,(364) 555-0164,San Diego,California,United States,2022-07-06
+CUST-100165,Wyatt,Davis,wyatt.davis.165@example.com,(365) 555-0165,Minneapolis,mn,United States,2022-07-09
+CUST-100166,Riley,Anderson,riley.anderson.166@example.com,(366) 555-0166,Nashville,TN,United States,2022-07-12
+CUST-100167,John,Jackson,john.jackson.167@example.com,(367) 555-0167,Charlotte,NC,United States,2022-07-15
+CUST-100168,Aria,Perez,aria.perez.168@example.com,(368) 555-0168,Columbus,Ohio,United States,2022-07-18
+CUST-100169,Luke,Harris,luke.harris.169@example.com,(369) 555-0169,Toronto,on,Canada,2022-07-21
+CUST-100170,  Layla  ,Robinson,layla.robinson.170@example.com,(370) 555-0170,Vancouver,BC,CA,2022-07-24
+CUST-100171,Nathan,Allen,nathan.allen.171@example.com,(371) 555-0171,London,ENG,United Kingdom,2022-07-27
+CUST-100172,Penelope,Scott,penelope.scott.172@example.com,(372) 555-0172,Manchester,England,United Kingdom,2022-07-30
+CUST-100173,Caleb,Adams,caleb.adams.173@example.com,(373) 555-0173,Mumbai,mh,India,2022-08-02
+CUST-100174,Aurora,Campbell,aurora.campbell.174@example.com,(374) 555-0174,Pune,MH,India,2022-08-05
+CUST-100175,Isaac,Carter,isaac.carter.175@example.com,(375) 555-0175,Bengaluru,KA,india,2022-08-08
+CUST-100176,Savannah,Turner,savannah.turner.176@example.com,(376) 555-0176,Austin,Texas,United States,2022-08-11
+CUST-100177,Adrian,Collins,adrian.collins.177@example.com,(377) 555-0177,Seattle,wa,United States,2022-08-14
+CUST-100178,Brooklyn,Morris,brooklyn.morris.178@example.com,(378) 555-0178,Denver,CO,United States,2022-08-17
+CUST-100179,Jonathan,Rogers,jonathan.rogers.179@example.com,(379) 555-0179,Chicago,IL,United States,2022-08-20
+CUST-100180,Claire,Cooper,claire.cooper.180@example.com,(380) 555-0180,Boston,Massachusetts,United States,2022-08-23
+CUST-100181,Thomas,Bell,thomas.bell.181@example.com,(381) 555-0181,Miami,fl,United States,2022-08-26
+CUST-100182,Paisley,Howard,paisley.howard.182@example.com,(382) 555-0182,Phoenix,AZ,United States,2022-08-29
+CUST-100183,Ava,Sharma,ava.sharma.183@example.com,(383) 555-0183,Portland,OR,United States,2022-09-01
+CUST-100184,Noah,Williams,noah.williams.184@example.com,(384) 555-0184,Atlanta,Georgia,United States,2022-09-04
+CUST-100185,Mia,Martinez,mia.martinez.185@example.com,(385) 555-0185,Dallas,tx,United States,2022-09-07
+CUST-100186,Liam,Wilson,liam.wilson.186@example.com,(386) 555-0186,San Diego,CA,United States,2022-09-10
+CUST-100187,  Sophia  ,Moore,sophia.moore.187@example.com,(387) 555-0187,Minneapolis,MN,United States,2022-09-13
+CUST-100188,Ethan,Lee,ethan.lee.188@example.com,(388) 555-0188,Nashville,Tennessee,United States,2022-09-16
+CUST-100189,Isla,White,isla.white.189@example.com,(389) 555-0189,Charlotte,nc,United States,2022-09-19
+CUST-100190,Mason,Lewis,mason.lewis.190@example.com,(390) 555-0190,Columbus,OH,United States,2022-09-22
+CUST-100191,Amelia,Young,amelia.young.191@example.com,(391) 555-0191,Toronto,ON,Canada,2022-09-25
+CUST-100192,Lucas,Wright,lucas.wright.192@example.com,(392) 555-0192,Vancouver,British Columbia,Canada,2022-09-28
+CUST-100193,Charlotte,Baker,charlotte.baker.193@example.com,(393) 555-0193,London,eng,United Kingdom,2022-10-01
+CUST-100194,James,Hill,james.hill.194@example.com,(394) 555-0194,Manchester,ENG,United Kingdom,2022-10-04
+CUST-100195,Harper,Roberts,harper.roberts.195@example.com,(395) 555-0195,Mumbai,MH,India,2022-10-07
+CUST-100196,Benjamin,Evans,benjamin.evans.196@example.com,(396) 555-0196,Pune,Maharashtra,India,2022-10-10
+CUST-100197,Evelyn,Parker,evelyn.parker.197@example.com,(397) 555-0197,Bengaluru,ka,India,2022-10-13
+CUST-100198,Henry,Stewart,henry.stewart.198@example.com,(398) 555-0198,Austin,TX,United States,2022-10-16
+CUST-100199,Abigail,Cook,abigail.cook.199@example.com,(399) 555-0199,Seattle,WA,United States,2022-10-19
+CUST-100200,Alexander,Peterson,alexander.peterson.200@example.com,(400) 555-0200,Denver,Colorado,United States,2022-10-22
+CUST-100201,Emily,Bailey,emily.bailey.201@example.com,(401) 555-0201,Chicago,il,United States,2022-10-25
+CUST-100202,Daniel,Kelly,daniel.kelly.202@example.com,(402) 555-0202,Boston,MA,United States,2022-10-28
+CUST-100203,Elizabeth,Nair,elizabeth.nair.203@example.com,(403) 555-0203,Miami,FL,United States,2022-10-31
+CUST-100204,  Michael  ,Johnson,michael.johnson.204@example.com,(404) 555-0204,Phoenix,Arizona,United States,2022-11-03
+CUST-100205,Sofia,Garcia,sofia.garcia.205@example.com,(405) 555-0205,Portland,or,United States,2022-11-06
+CUST-100206,William,Rodriguez,william.rodriguez.206@example.com,(406) 555-0206,Atlanta,GA,United States,2022-11-09
+CUST-100207,Avery,Thomas,avery.thomas.207@example.com,(407) 555-0207,Dallas,TX,United States,2022-11-12
+CUST-100208,Oliver,Martin,oliver.martin.208@example.com,(408) 555-0208,San Diego,California,United States,2022-11-15
+CUST-100209,Ella,Thompson,ella.thompson.209@example.com,(409) 555-0209,Minneapolis,mn,United States,2022-11-18
+CUST-100210,Jack,Clark,jack.clark.210@example.com,(410) 555-0210,Nashville,TN,United States,2022-11-21
+CUST-100211,Scarlett,Walker,scarlett.walker.211@example.com,(411) 555-0211,Charlotte,NC,United States,2022-11-24
+CUST-100212,Leo,King,leo.king.212@example.com,(412) 555-0212,Columbus,Ohio,United States,2022-11-27
+CUST-100213,Grace,Green,grace.green.213@example.com,(413) 555-0213,Toronto,on,Canada,2022-11-30
+CUST-100214,Samuel,Nelson,samuel.nelson.214@example.com,(414) 555-0214,Vancouver,BC,Canada,2022-12-03
+CUST-100215,Chloe,Mitchell,chloe.mitchell.215@example.com,(415) 555-0215,London,ENG,uk,2022-12-06
+CUST-100216,David,Phillips,david.phillips.216@example.com,(416) 555-0216,Manchester,England,United Kingdom,2022-12-09
+CUST-100217,Victoria,Torres,victoria.torres.217@example.com,(417) 555-0217,Mumbai,mh,India,2022-12-12
+CUST-100218,Joseph,Edwards,joseph.edwards.218@example.com,(418) 555-0218,Pune,MH,India,2022-12-15
+CUST-100219,Hannah,Murphy,hannah.murphy.219@example.com,(419) 555-0219,Bengaluru,KA,India,2022-12-18
+CUST-100220,Owen,Morgan,owen.morgan.220@example.com,(420) 555-0220,Austin,Texas,United States,2022-12-21
+CUST-100221,  Lily  ,Reed,lily.reed.221@example.com,(421) 555-0221,Seattle,wa,United States,2022-12-24
+CUST-100222,Gabriel,Gomez,gabriel.gomez.222@example.com,(422) 555-0222,Denver,CO,United States,2022-12-27
+CUST-100223,Zoe,Iyer,zoe.iyer.223@example.com,(423) 555-0223,Chicago,IL,United States,2022-12-30
+CUST-100224,Carter,Patel,carter.patel.224@example.com,(424) 555-0224,Boston,Massachusetts,United States,2023-01-02
+CUST-100225,Nora,Brown,nora.brown.225@example.com,(425) 555-0225,Miami,fl,United States,2023-01-05
+CUST-100226,Wyatt,Davis,wyatt.davis.226@example.com,(426) 555-0226,Phoenix,AZ,United States,2023-01-08
+CUST-100227,Riley,Anderson,riley.anderson.227@example.com,(427) 555-0227,Portland,OR,United States,2023-01-11
+CUST-100228,John,Jackson,john.jackson.228@example.com,(428) 555-0228,Atlanta,Georgia,United States,2023-01-14
+CUST-100229,Aria,Perez,aria.perez.229@example.com,(429) 555-0229,Dallas,tx,United States,2023-01-17
+CUST-100230,Luke,Harris,luke.harris.230@example.com,(430) 555-0230,San Diego,CA,United States,2023-01-20
+CUST-100231,Layla,Robinson,layla.robinson.231@example.com,(431) 555-0231,Minneapolis,MN,United States,2023-01-23
+CUST-100232,Nathan,Allen,nathan.allen.232@example.com,(432) 555-0232,Nashville,Tennessee,United States,2023-01-26
+CUST-100233,Penelope,Scott,penelope.scott.233@example.com,(433) 555-0233,Charlotte,nc,United States,2023-01-29
+CUST-100234,Caleb,Adams,caleb.adams.234@example.com,(434) 555-0234,Columbus,OH,United States,2023-02-01
+CUST-100235,Aurora,Campbell,aurora.campbell.235@example.com,(435) 555-0235,Toronto,ON,canada,2023-02-04
+CUST-100236,Isaac,Carter,isaac.carter.236@example.com,(436) 555-0236,Vancouver,British Columbia,Canada,2023-02-07
+CUST-100237,Savannah,Turner,savannah.turner.237@example.com,(437) 555-0237,London,eng,United Kingdom,2023-02-10
+CUST-100238,  Adrian  ,Collins,adrian.collins.238@example.com,(438) 555-0238,Manchester,ENG,United Kingdom,2023-02-13
+CUST-100239,Brooklyn,Morris,brooklyn.morris.239@example.com,(439) 555-0239,Mumbai,MH,India,2023-02-16
+CUST-100240,Jonathan,Rogers,jonathan.rogers.240@example.com,(440) 555-0240,Pune,Maharashtra,India,2023-02-19
+CUST-100241,Claire,Cooper,claire.cooper.241@example.com,(441) 555-0241,Bengaluru,ka,India,2023-02-22
+CUST-100242,Thomas,Bell,thomas.bell.242@example.com,(442) 555-0242,Austin,TX,United States,2023-02-25
+CUST-100243,Paisley,Howard,paisley.howard.243@example.com,(443) 555-0243,Seattle,WA,United States,2023-02-28
+CUST-100244,Ava,Sharma,ava.sharma.244@example.com,(444) 555-0244,Denver,Colorado,United States,2023-03-03
+CUST-100245,Noah,Williams,noah.williams.245@example.com,(445) 555-0245,Chicago,il,United States,2023-03-06
+CUST-100246,Mia,Martinez,mia.martinez.246@example.com,(446) 555-0246,Boston,MA,United States,2023-03-09
+CUST-100247,Liam,Wilson,liam.wilson.247@example.com,(447) 555-0247,Miami,FL,United States,2023-03-12
+CUST-100248,Sophia,Moore,sophia.moore.248@example.com,(448) 555-0248,Phoenix,Arizona,United States,2023-03-15
+CUST-100249,Ethan,Lee,ethan.lee.249@example.com,(449) 555-0249,Portland,or,United States,2023-03-18
+CUST-100250,Isla,White,isla.white.250@example.com,(450) 555-0250,Atlanta,GA,United States,2023-03-21
+CUST-100251,Mason,Lewis,mason.lewis.251@example.com,(451) 555-0251,Dallas,TX,United States,2023-03-24
+CUST-100252,Amelia,Young,amelia.young.252@example.com,(452) 555-0252,San Diego,California,United States,2023-03-27
+CUST-100253,Lucas,Wright,lucas.wright.253@example.com,(453) 555-0253,Minneapolis,mn,United States,2023-03-30
+CUST-100254,Charlotte,Baker,charlotte.baker.254@example.com,(454) 555-0254,Nashville,TN,United States,2023-04-02
+CUST-100255,  James  ,Hill,james.hill.255@example.com,(455) 555-0255,Charlotte,NC,United States,2023-04-05
+CUST-100256,Harper,Roberts,harper.roberts.256@example.com,(456) 555-0256,Columbus,Ohio,United States,2023-04-08
+CUST-100257,Benjamin,Evans,benjamin.evans.257@example.com,(457) 555-0257,Toronto,on,Canada,2023-04-11
+CUST-100258,Evelyn,Parker,evelyn.parker.258@example.com,(458) 555-0258,Vancouver,BC,Canada,2023-04-14
+CUST-100259,Henry,Stewart,henry.stewart.259@example.com,(459) 555-0259,London,ENG,United Kingdom,2023-04-17
+CUST-100260,Abigail,Cook,abigail.cook.260@example.com,(460) 555-0260,Manchester,England,uk,2023-04-20
+CUST-100261,Alexander,Peterson,alexander.peterson.261@example.com,(461) 555-0261,Mumbai,mh,India,2023-04-23
+CUST-100262,Emily,Bailey,emily.bailey.262@example.com,(462) 555-0262,Pune,MH,India,2023-04-26
+CUST-100263,Daniel,Kelly,daniel.kelly.263@example.com,(463) 555-0263,Bengaluru,KA,India,2023-04-29
+CUST-100264,Elizabeth,Nair,elizabeth.nair.264@example.com,(464) 555-0264,Austin,Texas,United States,2023-05-02
+CUST-100265,Michael,Johnson,michael.johnson.265@example.com,(465) 555-0265,Seattle,wa,United States,2023-05-05
+CUST-100266,Sofia,Garcia,sofia.garcia.266@example.com,(466) 555-0266,Denver,CO,United States,2023-05-08
+CUST-100267,William,Rodriguez,william.rodriguez.267@example.com,(467) 555-0267,Chicago,IL,United States,2023-05-11
+CUST-100268,Avery,Thomas,avery.thomas.268@example.com,(468) 555-0268,Boston,Massachusetts,United States,2023-05-14
+CUST-100269,Oliver,Martin,oliver.martin.269@example.com,(469) 555-0269,Miami,fl,United States,2023-05-17
+CUST-100270,Ella,Thompson,ella.thompson.270@example.com,(470) 555-0270,Phoenix,AZ,United States,2023-05-20
+CUST-100271,Jack,Clark,jack.clark.271@example.com,(471) 555-0271,Portland,OR,United States,2023-05-23
+CUST-100272,  Scarlett  ,Walker,scarlett.walker.272@example.com,(472) 555-0272,Atlanta,Georgia,United States,2023-05-26
+CUST-100273,Leo,King,leo.king.273@example.com,(473) 555-0273,Dallas,tx,United States,2023-05-29
+CUST-100274,Grace,Green,grace.green.274@example.com,(474) 555-0274,San Diego,CA,United States,2023-06-01
+CUST-100275,Samuel,Nelson,samuel.nelson.275@example.com,(475) 555-0275,Minneapolis,MN,United States,2023-06-04
+CUST-100276,Chloe,Mitchell,chloe.mitchell.276@example.com,(476) 555-0276,Nashville,Tennessee,United States,2023-06-07
+CUST-100277,David,Phillips,david.phillips.277@example.com,(477) 555-0277,Charlotte,nc,United States,2023-06-10
+CUST-100278,Victoria,Torres,victoria.torres.278@example.com,(478) 555-0278,Columbus,OH,United States,2023-06-13
+CUST-100279,Joseph,Edwards,joseph.edwards.279@example.com,(479) 555-0279,Toronto,ON,Canada,2023-06-16
+CUST-100280,Hannah,Murphy,hannah.murphy.280@example.com,(480) 555-0280,Vancouver,British Columbia,canada,2023-06-19
+CUST-100281,Owen,Morgan,owen.morgan.281@example.com,(481) 555-0281,London,eng,United Kingdom,2023-06-22
+CUST-100282,Lily,Reed,lily.reed.282@example.com,(482) 555-0282,Manchester,ENG,United Kingdom,2023-06-25
+CUST-100283,Gabriel,Gomez,gabriel.gomez.283@example.com,(483) 555-0283,Mumbai,MH,India,2023-06-28
+CUST-100284,Zoe,Iyer,zoe.iyer.284@example.com,(484) 555-0284,Pune,Maharashtra,India,2023-07-01
+CUST-100285,Carter,Patel,carter.patel.285@example.com,(485) 555-0285,Bengaluru,ka,India,2023-07-04
+CUST-100286,Nora,Brown,nora.brown.286@example.com,(486) 555-0286,Austin,TX,United States,2023-07-07
+CUST-100287,Wyatt,Davis,wyatt.davis.287@example.com,(487) 555-0287,Seattle,WA,United States,2023-07-10
+CUST-100288,Riley,Anderson,riley.anderson.288@example.com,(488) 555-0288,Denver,Colorado,United States,2023-07-13
+CUST-100289,  John  ,Jackson,john.jackson.289@example.com,(489) 555-0289,Chicago,il,United States,2023-07-16
+CUST-100290,Aria,Perez,aria.perez.290@example.com,(490) 555-0290,Boston,MA,United States,2023-07-19
+CUST-100291,Luke,Harris,luke.harris.291@example.com,(491) 555-0291,Miami,FL,United States,2023-07-22
+CUST-100292,Layla,Robinson,layla.robinson.292@example.com,(492) 555-0292,Phoenix,Arizona,United States,2023-07-25
+CUST-100293,Nathan,Allen,nathan.allen.293@example.com,(493) 555-0293,Portland,or,United States,2023-07-28
+CUST-100294,Penelope,Scott,penelope.scott.294@example.com,(494) 555-0294,Atlanta,GA,United States,2023-07-31
+CUST-100295,Caleb,Adams,caleb.adams.295@example.com,(495) 555-0295,Dallas,TX,United States,2023-08-03
+CUST-100296,Aurora,Campbell,aurora.campbell.296@example.com,(496) 555-0296,San Diego,California,United States,2023-08-06
+CUST-100297,Isaac,Carter,isaac.carter.297@example.com,(497) 555-0297,Minneapolis,mn,United States,2023-08-09
+CUST-100298,Savannah,Turner,savannah.turner.298@example.com,(498) 555-0298,Nashville,TN,United States,2023-08-12
+CUST-100299,Adrian,Collins,adrian.collins.299@example.com,(499) 555-0299,Charlotte,NC,United States,2023-08-15
+CUST-100300,Brooklyn,Morris,brooklyn.morris.300@example.com,(500) 555-0300,Columbus,Ohio,United States,2023-08-18
+CUST-100301,Jonathan,Rogers,jonathan.rogers.301@example.com,(501) 555-0301,Toronto,on,Canada,2023-08-21
+CUST-100302,Claire,Cooper,claire.cooper.302@example.com,(502) 555-0302,Vancouver,BC,Canada,2023-08-24
+CUST-100303,Thomas,Bell,thomas.bell.303@example.com,(503) 555-0303,London,ENG,United Kingdom,2023-08-27
+CUST-100304,Paisley,Howard,paisley.howard.304@example.com,(504) 555-0304,Manchester,England,United Kingdom,2023-08-30
+CUST-100305,Ava,Sharma,ava.sharma.305@example.com,(505) 555-0305,Mumbai,mh,IN,2023-09-02
+CUST-100306,  Noah  ,Williams,noah.williams.306@example.com,(506) 555-0306,Pune,MH,India,2023-09-05
+CUST-100307,Mia,Martinez,mia.martinez.307@example.com,(507) 555-0307,Bengaluru,KA,India,2023-09-08
+CUST-100308,Liam,Wilson,liam.wilson.308@example.com,(508) 555-0308,Austin,Texas,United States,2023-09-11
+CUST-100309,Sophia,Moore,sophia.moore.309@example.com,(509) 555-0309,Seattle,wa,United States,2023-09-14
+CUST-100310,Ethan,Lee,ethan.lee.310@example.com,(510) 555-0310,Denver,CO,United States,2023-09-17
+CUST-100311,Isla,White,isla.white.311@example.com,(511) 555-0311,Chicago,IL,United States,2023-09-20
+CUST-100312,Mason,Lewis,mason.lewis.312@example.com,(512) 555-0312,Boston,Massachusetts,United States,2023-09-23
+CUST-100313,Amelia,Young,amelia.young.313@example.com,(513) 555-0313,Miami,fl,United States,2023-09-26
+CUST-100314,Lucas,Wright,lucas.wright.314@example.com,(514) 555-0314,Phoenix,AZ,United States,2023-09-29
+CUST-100315,Charlotte,Baker,charlotte.baker.315@example.com,(515) 555-0315,Portland,OR,United States,2023-10-02
+CUST-100316,James,Hill,james.hill.316@example.com,(516) 555-0316,Atlanta,Georgia,United States,2023-10-05
+CUST-100317,Harper,Roberts,harper.roberts.317@example.com,(517) 555-0317,Dallas,tx,United States,2023-10-08
+CUST-100318,Benjamin,Evans,benjamin.evans.318@example.com,(518) 555-0318,San Diego,CA,United States,2023-10-11
+CUST-100319,Evelyn,Parker,evelyn.parker.319@example.com,(519) 555-0319,Minneapolis,MN,United States,2023-10-14
+CUST-100320,Henry,Stewart,henry.stewart.320@example.com,(520) 555-0320,Nashville,Tennessee,United States,2023-10-17
+CUST-100321,Abigail,Cook,abigail.cook.321@example.com,(521) 555-0321,Charlotte,nc,United States,2023-10-20
+CUST-100322,Alexander,Peterson,alexander.peterson.322@example.com,(522) 555-0322,Columbus,OH,United States,2023-10-23
+CUST-100323,  Emily  ,Bailey,emily.bailey.323@example.com,(523) 555-0323,Toronto,ON,Canada,2023-10-26
+CUST-100324,Daniel,Kelly,daniel.kelly.324@example.com,(524) 555-0324,Vancouver,British Columbia,Canada,2023-10-29
+CUST-100325,Elizabeth,Nair,elizabeth.nair.325@example.com,(525) 555-0325,London,eng,UK,2023-11-01
+CUST-100326,Michael,Johnson,michael.johnson.326@example.com,(526) 555-0326,Manchester,ENG,United Kingdom,2023-11-04
+CUST-100327,Sofia,Garcia,sofia.garcia.327@example.com,(527) 555-0327,Mumbai,MH,India,2023-11-07
+CUST-100328,William,Rodriguez,william.rodriguez.328@example.com,(528) 555-0328,Pune,Maharashtra,India,2023-11-10
+CUST-100329,Avery,Thomas,avery.thomas.329@example.com,(529) 555-0329,Bengaluru,ka,India,2023-11-13
+CUST-100330,Oliver,Martin,oliver.martin.330@example.com,(530) 555-0330,Austin,TX,United States,2023-11-16
+CUST-100331,Ella,Thompson,ella.thompson.331@example.com,(531) 555-0331,Seattle,WA,United States,2023-11-19
+CUST-100332,Jack,Clark,jack.clark.332@example.com,(532) 555-0332,Denver,Colorado,United States,2023-11-22
+CUST-100333,Scarlett,Walker,scarlett.walker.333@example.com,(533) 555-0333,Chicago,il,United States,2023-11-25
+CUST-100334,Leo,King,leo.king.334@example.com,(534) 555-0334,Boston,MA,United States,2023-11-28
+CUST-100335,Grace,Green,grace.green.335@example.com,(535) 555-0335,Miami,FL,United States,2023-12-01
+CUST-100336,Samuel,Nelson,samuel.nelson.336@example.com,(536) 555-0336,Phoenix,Arizona,United States,2023-12-04
+CUST-100337,Chloe,Mitchell,chloe.mitchell.337@example.com,(537) 555-0337,Portland,or,United States,2023-12-07
+CUST-100338,David,Phillips,david.phillips.338@example.com,(538) 555-0338,Atlanta,GA,United States,2023-12-10
+CUST-100339,Victoria,Torres,victoria.torres.339@example.com,(539) 555-0339,Dallas,TX,United States,2023-12-13
+CUST-100340,  Joseph  ,Edwards,joseph.edwards.340@example.com,(540) 555-0340,San Diego,California,United States,2023-12-16
+CUST-100341,Hannah,Murphy,hannah.murphy.341@example.com,(541) 555-0341,Minneapolis,mn,United States,2023-12-19
+CUST-100342,Owen,Morgan,owen.morgan.342@example.com,(542) 555-0342,Nashville,TN,United States,2023-12-22
+CUST-100343,Lily,Reed,lily.reed.343@example.com,(543) 555-0343,Charlotte,NC,United States,2023-12-25
+CUST-100344,Gabriel,Gomez,gabriel.gomez.344@example.com,(544) 555-0344,Columbus,Ohio,United States,2023-12-28
+CUST-100345,Zoe,Iyer,zoe.iyer.345@example.com,(545) 555-0345,Toronto,on,Canada,2023-12-31
+CUST-100346,Carter,Patel,carter.patel.346@example.com,(546) 555-0346,Vancouver,BC,Canada,2024-01-03
+CUST-100347,Nora,Brown,nora.brown.347@example.com,(547) 555-0347,London,ENG,United Kingdom,2024-01-06
+CUST-100348,Wyatt,Davis,wyatt.davis.348@example.com,(548) 555-0348,Manchester,England,United Kingdom,2024-01-09
+CUST-100349,Riley,Anderson,riley.anderson.349@example.com,(549) 555-0349,Mumbai,mh,India,2024-01-12
+CUST-100350,John,Jackson,john.jackson.350@example.com,(550) 555-0350,Pune,MH,IN,2024-01-15
+CUST-100351,Aria,Perez,aria.perez.351@example.com,(551) 555-0351,Bengaluru,KA,India,2024-01-18
+CUST-100352,Luke,Harris,luke.harris.352@example.com,(552) 555-0352,Austin,Texas,United States,2024-01-21
+CUST-100353,Layla,Robinson,layla.robinson.353@example.com,(553) 555-0353,Seattle,wa,United States,2024-01-24
+CUST-100354,Nathan,Allen,nathan.allen.354@example.com,(554) 555-0354,Denver,CO,United States,2024-01-27
+CUST-100355,Penelope,Scott,penelope.scott.355@example.com,(555) 555-0355,Chicago,IL,United States,2024-01-30
+CUST-100356,Caleb,Adams,caleb.adams.356@example.com,(556) 555-0356,Boston,Massachusetts,United States,2024-02-02
+CUST-100357,  Aurora  ,Campbell,aurora.campbell.357@example.com,(557) 555-0357,Miami,fl,United States,2024-02-05
+CUST-100358,Isaac,Carter,isaac.carter.358@example.com,(558) 555-0358,Phoenix,AZ,United States,2024-02-08
+CUST-100359,Savannah,Turner,savannah.turner.359@example.com,(559) 555-0359,Portland,OR,United States,2024-02-11
+CUST-100360,Adrian,Collins,adrian.collins.360@example.com,(560) 555-0360,Atlanta,Georgia,United States,2024-02-14
+CUST-100361,Brooklyn,Morris,brooklyn.morris.361@example.com,(561) 555-0361,Dallas,tx,United States,2024-02-17
+CUST-100362,Jonathan,Rogers,jonathan.rogers.362@example.com,(562) 555-0362,San Diego,CA,United States,2024-02-20
+CUST-100363,Claire,Cooper,claire.cooper.363@example.com,(563) 555-0363,Minneapolis,MN,United States,2024-02-23
+CUST-100364,Thomas,Bell,thomas.bell.364@example.com,(564) 555-0364,Nashville,Tennessee,United States,2024-02-26
+CUST-100365,Paisley,Howard,paisley.howard.365@example.com,(565) 555-0365,Charlotte,nc,United States,2024-02-29
+CUST-100366,Ava,Sharma,ava.sharma.366@example.com,(566) 555-0366,Columbus,OH,United States,2024-03-03
+CUST-100367,Noah,Williams,noah.williams.367@example.com,(567) 555-0367,Toronto,ON,Canada,2021-03-02
+CUST-100368,Mia,Martinez,mia.martinez.368@example.com,(568) 555-0368,Vancouver,British Columbia,Canada,2021-03-05
+CUST-100369,Liam,Wilson,liam.wilson.369@example.com,(569) 555-0369,London,eng,United Kingdom,2021-03-08
+CUST-100370,Sophia,Moore,sophia.moore.370@example.com,(570) 555-0370,Manchester,ENG,UK,2021-03-11
+CUST-100371,Ethan,Lee,ethan.lee.371@example.com,(571) 555-0371,Mumbai,MH,India,2021-03-14
+CUST-100372,Isla,White,isla.white.372@example.com,(572) 555-0372,Pune,Maharashtra,India,2021-03-17
+CUST-100373,Mason,Lewis,mason.lewis.373@example.com,(573) 555-0373,Bengaluru,ka,India,2021-03-20
+CUST-100374,  Amelia  ,Young,amelia.young.374@example.com,(574) 555-0374,Austin,TX,United States,2021-03-23
+CUST-100375,Lucas,Wright,lucas.wright.375@example.com,(575) 555-0375,Seattle,WA,United States,2021-03-26
+CUST-100376,Charlotte,Baker,charlotte.baker.376@example.com,(576) 555-0376,Denver,Colorado,United States,2021-03-29
+CUST-100377,James,Hill,james.hill.377@example.com,(577) 555-0377,Chicago,il,United States,2021-04-01
+CUST-100378,Harper,Roberts,harper.roberts.378@example.com,(578) 555-0378,Boston,MA,United States,2021-04-04
+CUST-100379,Benjamin,Evans,benjamin.evans.379@example.com,(579) 555-0379,Miami,FL,United States,2021-04-07
+CUST-100380,Evelyn,Parker,evelyn.parker.380@example.com,(580) 555-0380,Phoenix,Arizona,United States,2021-04-10
+CUST-100381,Henry,Stewart,henry.stewart.381@example.com,(581) 555-0381,Portland,or,United States,2021-04-13
+CUST-100382,Abigail,Cook,abigail.cook.382@example.com,(582) 555-0382,Atlanta,GA,United States,2021-04-16
+CUST-100383,Alexander,Peterson,alexander.peterson.383@example.com,(583) 555-0383,Dallas,TX,United States,2021-04-19
+CUST-100384,Emily,Bailey,emily.bailey.384@example.com,(584) 555-0384,San Diego,California,United States,2021-04-22
+CUST-100385,Daniel,Kelly,daniel.kelly.385@example.com,(585) 555-0385,Minneapolis,mn,United States,2021-04-25
+CUST-100386,Elizabeth,Nair,elizabeth.nair.386@example.com,(586) 555-0386,Nashville,TN,United States,2021-04-28
+CUST-100387,Michael,Johnson,michael.johnson.387@example.com,(587) 555-0387,Charlotte,NC,United States,2021-05-01
+CUST-100388,Sofia,Garcia,sofia.garcia.388@example.com,(588) 555-0388,Columbus,Ohio,United States,2021-05-04
+CUST-100389,William,Rodriguez,william.rodriguez.389@example.com,(589) 555-0389,Toronto,on,Canada,2021-05-07
+CUST-100390,Avery,Thomas,avery.thomas.390@example.com,(590) 555-0390,Vancouver,BC,Canada,2021-05-10
+CUST-100391,  Oliver  ,Martin,oliver.martin.391@example.com,(591) 555-0391,London,ENG,United Kingdom,2021-05-13
+CUST-100392,Ella,Thompson,ella.thompson.392@example.com,(592) 555-0392,Manchester,England,United Kingdom,2021-05-16
+CUST-100393,Jack,Clark,jack.clark.393@example.com,(593) 555-0393,Mumbai,mh,India,2021-05-19
+CUST-100394,Scarlett,Walker,scarlett.walker.394@example.com,(594) 555-0394,Pune,MH,India,2021-05-22
+CUST-100395,Leo,King,leo.king.395@example.com,(595) 555-0395,Bengaluru,KA,IN,2021-05-25
+CUST-100396,Grace,Green,grace.green.396@example.com,(596) 555-0396,Austin,Texas,United States,2021-05-28
+CUST-100397,Samuel,Nelson,samuel.nelson.397@example.com,(597) 555-0397,Seattle,wa,United States,2021-05-31
+CUST-100398,Chloe,Mitchell,chloe.mitchell.398@example.com,(598) 555-0398,Denver,CO,United States,2021-06-03
+CUST-100399,David,Phillips,david.phillips.399@example.com,(599) 555-0399,Chicago,IL,United States,2021-06-06
+CUST-100400,Victoria,Torres,victoria.torres.400@example.com,(600) 555-0400,Boston,Massachusetts,United States,2021-06-09
+CUST-100401,Joseph,Edwards,joseph.edwards.401@example.com,(601) 555-0401,Miami,fl,United States,2021-06-12
+CUST-100402,Hannah,Murphy,hannah.murphy.402@example.com,(602) 555-0402,Phoenix,AZ,United States,2021-06-15
+CUST-100403,Owen,Morgan,owen.morgan.403@example.com,(603) 555-0403,Portland,OR,United States,2021-06-18
+CUST-100404,Lily,Reed,lily.reed.404@example.com,(604) 555-0404,Atlanta,Georgia,United States,2021-06-21
+CUST-100405,Gabriel,Gomez,gabriel.gomez.405@example.com,(605) 555-0405,Dallas,tx,United States,2021-06-24
+CUST-100406,Zoe,Iyer,zoe.iyer.406@example.com,(606) 555-0406,San Diego,CA,United States,2021-06-27
+CUST-100407,Carter,Patel,carter.patel.407@example.com,(607) 555-0407,Minneapolis,MN,United States,2021-06-30
+CUST-100408,  Nora  ,Brown,nora.brown.408@example.com,(608) 555-0408,Nashville,Tennessee,United States,2021-07-03
+CUST-100409,Wyatt,Davis,wyatt.davis.409@example.com,(609) 555-0409,Charlotte,nc,United States,2021-07-06
+CUST-100410,Riley,Anderson,riley.anderson.410@example.com,(610) 555-0410,Columbus,OH,United States,2021-07-09
+CUST-100411,John,Jackson,john.jackson.411@example.com,(611) 555-0411,Toronto,ON,Canada,2021-07-12
+CUST-100412,Aria,Perez,aria.perez.412@example.com,(612) 555-0412,Vancouver,British Columbia,Canada,2021-07-15
+CUST-100413,Luke,Harris,luke.harris.413@example.com,(613) 555-0413,London,eng,United Kingdom,2021-07-18
+CUST-100414,Layla,Robinson,layla.robinson.414@example.com,(614) 555-0414,Manchester,ENG,United Kingdom,2021-07-21
+CUST-100415,Nathan,Allen,nathan.allen.415@example.com,(615) 555-0415,Mumbai,MH,india,2021-07-24
+CUST-100416,Penelope,Scott,penelope.scott.416@example.com,(616) 555-0416,Pune,Maharashtra,India,2021-07-27
+CUST-100417,Caleb,Adams,caleb.adams.417@example.com,(617) 555-0417,Bengaluru,ka,India,2021-07-30
+CUST-100418,Aurora,Campbell,aurora.campbell.418@example.com,(618) 555-0418,Austin,TX,United States,2021-08-02
+CUST-100419,Isaac,Carter,isaac.carter.419@example.com,(619) 555-0419,Seattle,WA,United States,2021-08-05
+CUST-100420,Savannah,Turner,savannah.turner.420@example.com,(620) 555-0420,Denver,Colorado,United States,2021-08-08
+CUST-100421,Adrian,Collins,adrian.collins.421@example.com,(621) 555-0421,Chicago,il,United States,2021-08-11
+CUST-100422,Brooklyn,Morris,brooklyn.morris.422@example.com,(622) 555-0422,Boston,MA,United States,2021-08-14
+CUST-100423,Jonathan,Rogers,jonathan.rogers.423@example.com,(623) 555-0423,Miami,FL,United States,2021-08-17
+CUST-100424,Claire,Cooper,claire.cooper.424@example.com,(624) 555-0424,Phoenix,Arizona,United States,2021-08-20
+CUST-100425,  Thomas  ,Bell,thomas.bell.425@example.com,(625) 555-0425,Portland,or,United States,2021-08-23
+CUST-100426,Paisley,Howard,paisley.howard.426@example.com,(626) 555-0426,Atlanta,GA,United States,2021-08-26
+CUST-100427,Ava,Sharma,ava.sharma.427@example.com,(627) 555-0427,Dallas,TX,United States,2021-08-29
+CUST-100428,Noah,Williams,noah.williams.428@example.com,(628) 555-0428,San Diego,California,United States,2021-09-01
+CUST-100429,Mia,Martinez,mia.martinez.429@example.com,(629) 555-0429,Minneapolis,mn,United States,2021-09-04
+CUST-100430,Liam,Wilson,liam.wilson.430@example.com,(630) 555-0430,Nashville,TN,United States,2021-09-07
+CUST-100431,Sophia,Moore,sophia.moore.431@example.com,(631) 555-0431,Charlotte,NC,United States,2021-09-10
+CUST-100432,Ethan,Lee,ethan.lee.432@example.com,(632) 555-0432,Columbus,Ohio,United States,2021-09-13
+CUST-100433,Isla,White,isla.white.433@example.com,(633) 555-0433,Toronto,on,Canada,2021-09-16
+CUST-100434,Mason,Lewis,mason.lewis.434@example.com,(634) 555-0434,Vancouver,BC,Canada,2021-09-19
+CUST-100435,Amelia,Young,amelia.young.435@example.com,(635) 555-0435,London,ENG,United Kingdom,2021-09-22
+CUST-100436,Lucas,Wright,lucas.wright.436@example.com,(636) 555-0436,Manchester,England,United Kingdom,2021-09-25
+CUST-100437,Charlotte,Baker,charlotte.baker.437@example.com,(637) 555-0437,Mumbai,mh,India,2021-09-28
+CUST-100438,James,Hill,james.hill.438@example.com,(638) 555-0438,Pune,MH,India,2021-10-01
+CUST-100439,Harper,Roberts,harper.roberts.439@example.com,(639) 555-0439,Bengaluru,KA,India,2021-10-04
+CUST-100440,Benjamin,Evans,benjamin.evans.440@example.com,(640) 555-0440,Austin,Texas,United States,2021-10-07
+CUST-100441,Evelyn,Parker,evelyn.parker.441@example.com,(641) 555-0441,Seattle,wa,United States,2021-10-10
+CUST-100442,  Henry  ,Stewart,henry.stewart.442@example.com,(642) 555-0442,Denver,CO,United States,2021-10-13
+CUST-100443,Abigail,Cook,abigail.cook.443@example.com,(643) 555-0443,Chicago,IL,United States,2021-10-16
+CUST-100444,Alexander,Peterson,alexander.peterson.444@example.com,(644) 555-0444,Boston,Massachusetts,United States,2021-10-19
+CUST-100445,Emily,Bailey,emily.bailey.445@example.com,(645) 555-0445,Miami,fl,United States,2021-10-22
+CUST-100446,Daniel,Kelly,daniel.kelly.446@example.com,(646) 555-0446,Phoenix,AZ,United States,2021-10-25
+CUST-100447,Elizabeth,Nair,elizabeth.nair.447@example.com,(647) 555-0447,Portland,OR,United States,2021-10-28
+CUST-100448,Michael,Johnson,michael.johnson.448@example.com,(648) 555-0448,Atlanta,Georgia,United States,2021-10-31
+CUST-100449,Sofia,Garcia,sofia.garcia.449@example.com,(649) 555-0449,Dallas,tx,United States,2021-11-03
+CUST-100450,William,Rodriguez,william.rodriguez.450@example.com,(650) 555-0450,San Diego,CA,United States,2021-11-06
+CUST-100451,Avery,Thomas,avery.thomas.451@example.com,(651) 555-0451,Minneapolis,MN,United States,2021-11-09
+CUST-100452,Oliver,Martin,oliver.martin.452@example.com,(652) 555-0452,Nashville,Tennessee,United States,2021-11-12
+CUST-100453,Ella,Thompson,ella.thompson.453@example.com,(653) 555-0453,Charlotte,nc,United States,2021-11-15
+CUST-100454,Jack,Clark,jack.clark.454@example.com,(654) 555-0454,Columbus,OH,United States,2021-11-18
+CUST-100455,Scarlett,Walker,scarlett.walker.455@example.com,(655) 555-0455,Toronto,ON,CA,2021-11-21
+CUST-100456,Leo,King,leo.king.456@example.com,(656) 555-0456,Vancouver,British Columbia,Canada,2021-11-24
+CUST-100457,Grace,Green,grace.green.457@example.com,(657) 555-0457,London,eng,United Kingdom,2021-11-27
+CUST-100458,Samuel,Nelson,samuel.nelson.458@example.com,(658) 555-0458,Manchester,ENG,United Kingdom,2021-11-30
+CUST-100459,  Chloe  ,Mitchell,chloe.mitchell.459@example.com,(659) 555-0459,Mumbai,MH,India,2021-12-03
+CUST-100460,David,Phillips,david.phillips.460@example.com,(660) 555-0460,Pune,Maharashtra,india,2021-12-06
+CUST-100461,Victoria,Torres,victoria.torres.461@example.com,(661) 555-0461,Bengaluru,ka,India,2021-12-09
+CUST-100462,Joseph,Edwards,joseph.edwards.462@example.com,(662) 555-0462,Austin,TX,United States,2021-12-12
+CUST-100463,Hannah,Murphy,hannah.murphy.463@example.com,(663) 555-0463,Seattle,WA,United States,2021-12-15
+CUST-100464,Owen,Morgan,owen.morgan.464@example.com,(664) 555-0464,Denver,Colorado,United States,2021-12-18
+CUST-100465,Lily,Reed,lily.reed.465@example.com,(665) 555-0465,Chicago,il,United States,2021-12-21
+CUST-100466,Gabriel,Gomez,gabriel.gomez.466@example.com,(666) 555-0466,Boston,MA,United States,2021-12-24
+CUST-100467,Zoe,Iyer,zoe.iyer.467@example.com,(667) 555-0467,Miami,FL,United States,2021-12-27
+CUST-100468,Carter,Patel,carter.patel.468@example.com,(668) 555-0468,Phoenix,Arizona,United States,2021-12-30
+CUST-100469,Nora,Brown,nora.brown.469@example.com,(669) 555-0469,Portland,or,United States,2022-01-02
+CUST-100470,Wyatt,Davis,wyatt.davis.470@example.com,(670) 555-0470,Atlanta,GA,United States,2022-01-05
+CUST-100471,Riley,Anderson,riley.anderson.471@example.com,(671) 555-0471,Dallas,TX,United States,2022-01-08
+CUST-100472,John,Jackson,john.jackson.472@example.com,(672) 555-0472,San Diego,California,United States,2022-01-11
+CUST-100473,Aria,Perez,aria.perez.473@example.com,(673) 555-0473,Minneapolis,mn,United States,2022-01-14
+CUST-100474,Luke,Harris,luke.harris.474@example.com,(674) 555-0474,Nashville,TN,United States,2022-01-17
+CUST-100475,Layla,Robinson,layla.robinson.475@example.com,(675) 555-0475,Charlotte,NC,United States,2022-01-20
+CUST-100476,  Nathan  ,Allen,nathan.allen.476@example.com,(676) 555-0476,Columbus,Ohio,United States,2022-01-23
+CUST-100477,Penelope,Scott,penelope.scott.477@example.com,(677) 555-0477,Toronto,on,Canada,2022-01-26
+CUST-100478,Caleb,Adams,caleb.adams.478@example.com,(678) 555-0478,Vancouver,BC,Canada,2022-01-29
+CUST-100479,Aurora,Campbell,aurora.campbell.479@example.com,(679) 555-0479,London,ENG,United Kingdom,2022-02-01
+CUST-100480,Isaac,Carter,isaac.carter.480@example.com,(680) 555-0480,Manchester,England,United Kingdom,2022-02-04
+CUST-100481,Savannah,Turner,savannah.turner.481@example.com,(681) 555-0481,Mumbai,mh,India,2022-02-07
+CUST-100482,Adrian,Collins,adrian.collins.482@example.com,(682) 555-0482,Pune,MH,India,2022-02-10
+CUST-100483,Brooklyn,Morris,brooklyn.morris.483@example.com,(683) 555-0483,Bengaluru,KA,India,2022-02-13
+CUST-100484,Jonathan,Rogers,jonathan.rogers.484@example.com,(684) 555-0484,Austin,Texas,United States,2022-02-16
+CUST-100485,Claire,Cooper,claire.cooper.485@example.com,(685) 555-0485,Seattle,wa,United States,2022-02-19
+CUST-100486,Thomas,Bell,thomas.bell.486@example.com,(686) 555-0486,Denver,CO,United States,2022-02-22
+CUST-100487,Paisley,Howard,paisley.howard.487@example.com,(687) 555-0487,Chicago,IL,United States,2022-02-25
+CUST-100488,Ava,Sharma,ava.sharma.488@example.com,(688) 555-0488,Boston,Massachusetts,United States,2022-02-28
+CUST-100489,Noah,Williams,noah.williams.489@example.com,(689) 555-0489,Miami,fl,United States,2022-03-03
+CUST-100490,Mia,Martinez,mia.martinez.490@example.com,(690) 555-0490,Phoenix,AZ,United States,2022-03-06
+CUST-100491,Liam,Wilson,liam.wilson.491@example.com,(691) 555-0491,Portland,OR,United States,2022-03-09
+CUST-100492,Sophia,Moore,sophia.moore.492@example.com,(692) 555-0492,Atlanta,Georgia,United States,2022-03-12
+CUST-100493,  Ethan  ,Lee,ethan.lee.493@example.com,(693) 555-0493,Dallas,tx,United States,2022-03-15
+CUST-100494,Isla,White,isla.white.494@example.com,(694) 555-0494,San Diego,CA,United States,2022-03-18
+CUST-100495,Mason,Lewis,mason.lewis.495@example.com,(695) 555-0495,Minneapolis,MN,United States,2022-03-21
+CUST-100496,Amelia,Young,amelia.young.496@example.com,(696) 555-0496,Nashville,Tennessee,United States,2022-03-24
+CUST-100497,Lucas,Wright,lucas.wright.497@example.com,(697) 555-0497,Charlotte,nc,United States,2022-03-27
+CUST-100498,Charlotte,Baker,charlotte.baker.498@example.com,(698) 555-0498,Columbus,OH,United States,2022-03-30
+CUST-100499,James,Hill,james.hill.499@example.com,(699) 555-0499,Toronto,ON,Canada,2022-04-02
+CUST-100080,Daniel,Kelly,daniel.kelly.80@example.com,,Columbus,Ohio,United States,2021-10-27
+CUST-100081,Elizabeth,Nair,elizabeth.nair.81@example.com,,Toronto,on,Canada,2021-10-30
+CUST-100082,Michael,Johnson,michael.johnson.82@example.com,,Vancouver,BC,Canada,2021-11-02
+CUST-100083,Sofia,Garcia,sofia.garcia.83@example.com,,London,ENG,United Kingdom,2021-11-05
+CUST-100084,William,Rodriguez,william.rodriguez.84@example.com,,Manchester,England,United Kingdom,2021-11-08
+CUST-100085,Avery,Thomas,avery.thomas.85@example.com,,Mumbai,mh,india,2021-11-11
+CUST-100086,Oliver,Martin,oliver.martin.86@example.com,,Pune,MH,India,2021-11-14
+CUST-100087,Ella,Thompson,ella.thompson.87@example.com,,Bengaluru,KA,India,2021-11-17
+CUST-100088,Jack,Clark,jack.clark.88@example.com,,Austin,Texas,United States,2021-11-20
+CUST-100089,Scarlett,Walker,scarlett.walker.89@example.com,,Seattle,wa,United States,2021-11-23
+,Gabriel,Gomez,missing.id@example.com,(300) 555-0100,Nashville,Tennessee,United States,2021-12-26
+,Gabriel,Gomez,missing.id@example.com,(300) 555-0100,Nashville,Tennessee,United States,2021-12-26
+,Gabriel,Gomez,missing.id@example.com,(300) 555-0100,Nashville,Tennessee,United States,2021-12-26
+,Gabriel,Gomez,missing.id@example.com,(300) 555-0100,Nashville,Tennessee,United States,2021-12-26
+,Gabriel,Gomez,missing.id@example.com,(300) 555-0100,Nashville,Tennessee,United States,2021-12-26
+,Gabriel,Gomez,missing.id@example.com,(300) 555-0100,Nashville,Tennessee,United States,2021-12-26
+,Gabriel,Gomez,missing.id@example.com,(300) 555-0100,Nashville,Tennessee,United States,2021-12-26
+,Gabriel,Gomez,missing.id@example.com,(300) 555-0100,Nashville,Tennessee,United States,2021-12-26

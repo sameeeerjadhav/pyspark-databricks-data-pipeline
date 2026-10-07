@@ -1,0 +1,108 @@
+{
+  "name": "pl_shopsphere_medallion",
+  "properties": {
+    "description": "Design template for ShopSphere. This pipeline has not been deployed to Azure Data Factory.",
+    "parameters": {
+      "environment": {"type": "string", "defaultValue": "dev"},
+      "load_date": {"type": "string", "defaultValue": "2026-10-07"},
+      "storage_account": {"type": "string", "defaultValue": "<storage-account>"},
+      "container": {"type": "string", "defaultValue": "shopsphere"}
+    },
+    "activities": [
+      {
+        "name": "Copy_Customers",
+        "type": "Copy",
+        "dependsOn": [],
+        "policy": {"retry": 3, "retryIntervalInSeconds": 30, "timeout": "0.01:00:00"},
+        "typeProperties": {
+          "source": {"type": "DelimitedTextSource"},
+          "sink": {"type": "DelimitedTextSink"},
+          "notes": "Land customers.csv in raw/customers/@{pipeline().parameters.load_date}/"
+        }
+      },
+      {
+        "name": "Copy_Products",
+        "type": "Copy",
+        "dependsOn": [],
+        "policy": {"retry": 3, "retryIntervalInSeconds": 30},
+        "typeProperties": {"source": {"type": "DelimitedTextSource"}, "sink": {"type": "DelimitedTextSink"}}
+      },
+      {
+        "name": "Copy_Orders",
+        "type": "Copy",
+        "dependsOn": [],
+        "policy": {"retry": 3, "retryIntervalInSeconds": 30},
+        "typeProperties": {"source": {"type": "DelimitedTextSource"}, "sink": {"type": "DelimitedTextSink"}}
+      },
+      {
+        "name": "Copy_OrderItems",
+        "type": "Copy",
+        "dependsOn": [],
+        "policy": {"retry": 3, "retryIntervalInSeconds": 30},
+        "typeProperties": {"source": {"type": "DelimitedTextSource"}, "sink": {"type": "DelimitedTextSink"}}
+      },
+      {
+        "name": "Copy_Payments",
+        "type": "Copy",
+        "dependsOn": [],
+        "policy": {"retry": 3, "retryIntervalInSeconds": 30},
+        "typeProperties": {"source": {"type": "JsonSource"}, "sink": {"type": "JsonSink"}}
+      },
+      {
+        "name": "Bronze_Ingestion",
+        "type": "DatabricksNotebook",
+        "dependsOn": [
+          {"activity": "Copy_Customers", "dependencyConditions": ["Succeeded"]},
+          {"activity": "Copy_Products", "dependencyConditions": ["Succeeded"]},
+          {"activity": "Copy_Orders", "dependencyConditions": ["Succeeded"]},
+          {"activity": "Copy_OrderItems", "dependencyConditions": ["Succeeded"]},
+          {"activity": "Copy_Payments", "dependencyConditions": ["Succeeded"]}
+        ],
+        "policy": {"retry": 1, "retryIntervalInSeconds": 60},
+        "typeProperties": {
+          "notebookPath": "/Repos/sameeeerjadhav/pyspark-databricks-data-pipeline/notebooks/01_bronze_ingestion",
+          "baseParameters": {
+            "ENVIRONMENT": "azure",
+            "PIPELINE_STORAGE_FORMAT": "delta"
+          }
+        }
+      },
+      {
+        "name": "Data_Quality",
+        "type": "DatabricksNotebook",
+        "dependsOn": [{"activity": "Bronze_Ingestion", "dependencyConditions": ["Succeeded"]}],
+        "policy": {"retry": 0},
+        "typeProperties": {
+          "notebookPath": "/Repos/sameeeerjadhav/pyspark-databricks-data-pipeline/notebooks/02_data_quality"
+        }
+      },
+      {
+        "name": "Silver_Transformations",
+        "type": "DatabricksNotebook",
+        "dependsOn": [{"activity": "Bronze_Ingestion", "dependencyConditions": ["Succeeded"]}],
+        "policy": {"retry": 1, "retryIntervalInSeconds": 60},
+        "typeProperties": {
+          "notebookPath": "/Repos/sameeeerjadhav/pyspark-databricks-data-pipeline/notebooks/03_silver_transformations"
+        }
+      },
+      {
+        "name": "Gold_Transformations",
+        "type": "DatabricksNotebook",
+        "dependsOn": [{"activity": "Silver_Transformations", "dependencyConditions": ["Succeeded"]}],
+        "policy": {"retry": 1, "retryIntervalInSeconds": 60},
+        "typeProperties": {
+          "notebookPath": "/Repos/sameeeerjadhav/pyspark-databricks-data-pipeline/notebooks/04_gold_transformations"
+        }
+      },
+      {
+        "name": "SQL_Analytics",
+        "type": "DatabricksNotebook",
+        "dependsOn": [{"activity": "Gold_Transformations", "dependencyConditions": ["Succeeded"]}],
+        "policy": {"retry": 0},
+        "typeProperties": {
+          "notebookPath": "/Repos/sameeeerjadhav/pyspark-databricks-data-pipeline/notebooks/06_databricks_sql"
+        }
+      }
+    ]
+  }
+}

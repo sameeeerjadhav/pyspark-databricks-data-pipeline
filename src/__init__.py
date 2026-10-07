@@ -1,0 +1,1 @@
+"""ShopSphere medallion pipeline."""
