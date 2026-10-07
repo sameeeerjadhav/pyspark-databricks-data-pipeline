@@ -27,7 +27,7 @@ jobs:
         run: python -m compileall src tests scripts
 
       - name: Run tests
-        run: pytest -q
+        run: python -m pytest -q
         env:
           ENVIRONMENT: local
           PIPELINE_STORAGE_FORMAT: parquet
